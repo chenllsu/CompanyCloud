@@ -29,7 +29,6 @@
     },
     methods: {
       selectPageItem(pageIndex) {
-        console.log('this is son to father', pageIndex)
       }
     }
   }
